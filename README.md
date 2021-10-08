@@ -4,7 +4,7 @@ _Realizado por Lucía Ramírez Monje 2ºAsir A_
 
 ## Comenzando 🚀
 
-_Proyecto compuesto por dos directorios principales, la [Documentacion del proyecto](https://github.com/ramirezmonjelucia2/Proyecto02/blob/main/doc/Documentacion%20TypeScript.pdf) y la carpeta [src](https://github.com/ramirezmonjelucia2/Proyecto02/tree/main/src) donde se realizan las pruebas_
+_Proyecto compuesto por dos directorios principales, la [Documentacion del proyecto](https://github.com/ramirezmonjelucia2/Proyecto02/blob/main/doc/Documentacion%20TypeScript.pdf) y la carpeta [src](https://github.com/ramirezmonjelucia2/Proyecto02/tree/main/src) donde se desarrollan las pruebas_
 
 
 ### Documentación 📋
@@ -29,10 +29,12 @@ _¿Qué encontramos?_
 _Las pruebas consisten en:_
 ```
 - Un menú con diferentes opciones -
-1-
-2-
-3-
-4-
+1- Primo/Noprimo
+2- Par/Impar    
+3- Diferencia fechas
+4- Descuento socio
+5- Fibonacci
+6- Tabla multiplicar
 
 ```
 
